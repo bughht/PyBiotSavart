@@ -75,7 +75,7 @@ plt.show()
 The repository includes a Jupyter Notebook ([demo.ipynb](./demo.ipynb)) that demonstrates the following:
 
 1. Circular Coil
-![](figs/circular.png)
+![](figs/Circular.png)
 2. Spiral Coil with Varying Radius
 ![](figs/spiral.png)
 3. Helical Coil
