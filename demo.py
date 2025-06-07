@@ -75,5 +75,4 @@ im2.set_clim(-5e-5, 5e-5)
 plt.colorbar(im2, ax=ax2)
 plt.tight_layout()
 
-# plt.show()
-plt.savefig("figs/vr_helical.png")
+plt.show()
